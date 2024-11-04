@@ -1,1 +1,1 @@
-# bank_of_italy
+# material for BdI-EIEF short course "Unstructured Data for Economics"
