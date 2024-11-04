@@ -1,0 +1,19 @@
+Discussion Note/discussion_note_szymon_02012024_files/**
+*.aux
+*.bbl
+*.blg
+*.log
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bib
+*.out
+*.aex
+*.nav
+*.snm
+*.toc
+_minted-main/**
+0file.pdf
+SU_logo_eps_converted_to.pdf
+SU_logo_tree_stacked_eps_converged_to.pdf
+manuscript/_minted-0file/*
